@@ -1,0 +1,13 @@
+com\mydddyh\controller\RoleController.class
+com\mydddyh\config\SecurityConfig.class
+com\mydddyh\controller\CategoryController.class
+com\mydddyh\controller\AdminLoginController.class
+com\mydddyh\controller\MenuController.class
+com\mydddyh\config\SwaggerConfig.class
+com\mydddyh\filter\JwtAuthenticationTokenFilter.class
+com\mydddyh\controller\TagController.class
+com\mydddyh\controller\LinkController.class
+com\mydddyh\AdminApplication.class
+com\mydddyh\controller\UploadController.class
+com\mydddyh\controller\ArticleController.class
+com\mydddyh\controller\UserController.class
